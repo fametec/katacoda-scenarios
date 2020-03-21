@@ -28,7 +28,7 @@ Para inciar execute o comando `docker-compose up` conforme a seguir:
 
 
 
-Aguarde o deploy, em seguinda acesse a Aba Dashboard. 
+Aguarde o deploy e acesse a aba Dashboard. 
 
 
 ![Dashboard](https://github.com/eduardofraga/katacoda-scenarios/raw/master/glpi-playground/katacoda/2020-03-21-18-12-46-Window.png)
