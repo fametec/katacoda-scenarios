@@ -4,6 +4,14 @@
   "difficulty": "Intermediate",
   "time": "60 minutes",
   "details": {
+    "assets": {
+      "client": [
+        {
+          "file": "docker-compose.yml",
+          "target": "~/"
+        }
+      ]
+    },
     "steps": [
       {
         "title": "Step 1",
@@ -15,7 +23,8 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "courseBase.sh"
     },
     "finish": {
       "text": "finish.md"
