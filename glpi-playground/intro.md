@@ -1,3 +1,8 @@
-# Intro
+# GLPI Playground
 
-teste
+
+- Passo 1: Deploy do GLPI
+
+
+
+
