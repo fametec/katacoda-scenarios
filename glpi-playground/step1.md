@@ -1,7 +1,6 @@
-# Passo 1
+# Topologia 
 
-
-## Topologia 
+Este cenário possui a seguinte topologia: 
 
 
 ![Topologia](https://raw.githubusercontent.com/fametec/glpi/master/topologia-docker-compose-glpi.png)
