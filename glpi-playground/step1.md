@@ -10,7 +10,7 @@ Este cenário possui a seguinte topologia:
 ## Download do docker-compose.yml
 
 
-O Docker compose facilita a instalação dos containers da topoligia. 
+O Docker compose facilita a instalação dos containers da topologia. 
 
 No terminal ao lado execute o comando a seguir: 
 
