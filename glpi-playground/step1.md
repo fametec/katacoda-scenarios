@@ -29,7 +29,7 @@ Para iniciar execute o comando `docker-compose up` conforme a seguir:
 
 Aguarde o deploy até sugir a mensagem a seguir: 
 
-![Dashboard](https://github.com/eduardofraga/katacoda-scenarios/raw/master/glpi-playground/katacoda/mariadb-ready-for-connection.png)
+![Mariadb](https://github.com/eduardofraga/katacoda-scenarios/blob/master/glpi-playground/katacoda/mariadb-ready-for-connections.png)
 
 
 ## Mude para a aba Dashboard
