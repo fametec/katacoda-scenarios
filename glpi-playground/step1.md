@@ -20,7 +20,7 @@ No terminal ao lado execute o comando a seguir:
 ## Execute docker-compose
 
 
-Para inciar execute o comando `docker-compose up` conforme a seguir: 
+Para iniciar execute o comando `docker-compose up` conforme a seguir: 
 
 
 `docker-compose up`{{execute}}
