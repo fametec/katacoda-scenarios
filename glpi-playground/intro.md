@@ -4,9 +4,9 @@
 Exemplos prático de utilização do GLPI
 
 Passos: 
-[x] Instanciar o GLPI no Docker; 
-[x] Efetuar o logon; 
-[x] Alterar o idioma; 
+-[x] Instanciar o GLPI no Docker; 
+-[x] Efetuar o logon; 
+-[x] Alterar o idioma; 
 
 
 
